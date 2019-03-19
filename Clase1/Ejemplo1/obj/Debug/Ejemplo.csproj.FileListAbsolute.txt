@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Clase1\Ejemplo1\bin\Debug\Ejercicio1.exe.config
+C:\Users\alumno\Desktop\Clase1\Ejemplo1\bin\Debug\Ejercicio1.exe
+C:\Users\alumno\Desktop\Clase1\Ejemplo1\bin\Debug\Ejercicio1.pdb
+C:\Users\alumno\Desktop\Clase1\Ejemplo1\obj\Debug\Ejemplo.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase1\Ejemplo1\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase1\Ejemplo1\obj\Debug\Ejercicio1.exe
+C:\Users\alumno\Desktop\Clase1\Ejemplo1\obj\Debug\Ejercicio1.pdb
