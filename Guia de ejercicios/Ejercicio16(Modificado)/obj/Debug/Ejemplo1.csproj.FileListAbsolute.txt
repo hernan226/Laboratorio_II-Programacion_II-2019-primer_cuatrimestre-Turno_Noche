@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Clase3\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\alumno\Desktop\Clase3\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\alumno\Desktop\Clase3\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\alumno\Desktop\Clase3\Ejemplo1\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase3\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase3\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\alumno\Desktop\Clase3\Ejemplo1\obj\Debug\Ejemplo1.pdb
+C:\Users\alumno\Desktop\Clase3\Ejercicio16(Modificado)\bin\Debug\Ejemplo1.exe.config
+C:\Users\alumno\Desktop\Clase3\Ejercicio16(Modificado)\bin\Debug\Ejemplo1.exe
+C:\Users\alumno\Desktop\Clase3\Ejercicio16(Modificado)\bin\Debug\Ejemplo1.pdb
+C:\Users\alumno\Desktop\Clase3\Ejercicio16(Modificado)\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase3\Ejercicio16(Modificado)\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase3\Ejercicio16(Modificado)\obj\Debug\Ejemplo1.exe
+C:\Users\alumno\Desktop\Clase3\Ejercicio16(Modificado)\obj\Debug\Ejemplo1.pdb
