@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Guia de ejercicios\ejercicio17\bin\Debug\c void Set.exe.config
+C:\Users\alumno\Desktop\Guia de ejercicios\ejercicio17\bin\Debug\c void Set.exe
+C:\Users\alumno\Desktop\Guia de ejercicios\ejercicio17\bin\Debug\c void Set.pdb
+C:\Users\alumno\Desktop\Guia de ejercicios\ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Guia de ejercicios\ejercicio17\obj\Debug\c void Set.exe
+C:\Users\alumno\Desktop\Guia de ejercicios\ejercicio17\obj\Debug\c void Set.pdb
+C:\Users\alumno\Desktop\Guia de ejercicios\ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
