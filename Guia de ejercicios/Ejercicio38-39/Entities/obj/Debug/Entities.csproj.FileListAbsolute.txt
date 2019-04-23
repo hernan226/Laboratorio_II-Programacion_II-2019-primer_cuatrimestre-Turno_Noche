@@ -4,3 +4,9 @@ D:\VisualStudio\Ejercicio38\Entities\obj\Debug\Entities.csprojAssemblyReference.
 D:\VisualStudio\Ejercicio38\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Ejercicio38\Entities\obj\Debug\Entities.dll
 D:\VisualStudio\Ejercicio38\Entities\obj\Debug\Entities.pdb
+C:\Users\alumno\Desktop\Ejercicio38-39\Entities\bin\Debug\Entities.dll
+C:\Users\alumno\Desktop\Ejercicio38-39\Entities\bin\Debug\Entities.pdb
+C:\Users\alumno\Desktop\Ejercicio38-39\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicio38-39\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicio38-39\Entities\obj\Debug\Entities.dll
+C:\Users\alumno\Desktop\Ejercicio38-39\Entities\obj\Debug\Entities.pdb

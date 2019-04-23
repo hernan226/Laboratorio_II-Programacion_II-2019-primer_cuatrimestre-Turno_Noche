@@ -11,7 +11,9 @@ namespace Entities
       protected string miAtributo;
       public abstract string MiPropiedad { get; }
 
-      protected Sobreescrito()
+      public abstract string MiMetodo();
+
+      public Sobreescrito()
       {
         this.miAtributo = "Probar abstractos";
       }
