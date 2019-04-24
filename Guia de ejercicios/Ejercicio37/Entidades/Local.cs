@@ -15,12 +15,32 @@ namespace Entidades
       this.costo = costo;
     }
 
-    public float CostoLlamada
+    public Local(string origen, float duracion, string destino, float costo)
+      : base(duracion, destino, origen)
+    {
+      this.costo = costo;
+    }
+
+    public override float CostoDeLlamada
     {
       get
       {
-        return this.costo;
+        return this.CalcularCosto();
       }
     }
+
+    public override string Mostrar()
+    {
+      StringBuilder sb = new StringBuilder();
+      sb.Append(base.Mostrar());
+      sb.AppendLine("Costo: " + this.CostoDeLlamada);
+      return " ";
+    }
+
+    private float CalcularCosto()
+    {
+      return this.costo*base.Duracion;
+    }
+
   }
 }

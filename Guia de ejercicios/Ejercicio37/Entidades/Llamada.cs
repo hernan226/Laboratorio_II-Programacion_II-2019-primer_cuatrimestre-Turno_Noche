@@ -19,6 +19,7 @@ namespace Entidades
       this.numeroDeOrigen = numeroDeOrigen;
     }
 
+    #region Propiedades
     public float Duracion
     {
       get
@@ -42,9 +43,12 @@ namespace Entidades
         return this.numeroDeOrigen;
       }
     }
-    
 
-    public int OrdenarPorDuracion(Llamada call1, Llamada call2)
+    public virtual float CostoDeLlamada { get; }
+    #endregion
+
+
+    public static int OrdenarPorDuracion(Llamada call1, Llamada call2)
     {
       if (call1.Duracion > call2.Duracion)
         return (int)call2.Duracion;
@@ -55,7 +59,10 @@ namespace Entidades
     public virtual string Mostrar()
     {
       StringBuilder sb = new StringBuilder();
-      return " ";
+      sb.AppendLine("Duracion: "+this.Duracion);
+      sb.AppendLine("Destino: " + this.NumeroDeDestino);
+      sb.AppendLine("Origen: " + this.NumeroDeOrigen);
+      return sb.ToString();
     }
 
     public enum TipoLlamada
