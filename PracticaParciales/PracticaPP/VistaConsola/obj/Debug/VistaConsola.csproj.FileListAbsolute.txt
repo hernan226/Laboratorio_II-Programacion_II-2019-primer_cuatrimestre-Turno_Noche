@@ -1,0 +1,10 @@
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\bin\Debug\VistaConsola.exe
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\bin\Debug\Entidades.dll
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\bin\Debug\Entidades.pdb
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\obj\Debug\VistaConsola.exe
+D:\VisualStudio\Coronel.Hernan.2D\VistaConsola\obj\Debug\VistaConsola.pdb

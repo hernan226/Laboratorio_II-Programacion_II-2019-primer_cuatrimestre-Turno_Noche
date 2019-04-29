@@ -1,0 +1,6 @@
+D:\VisualStudio\Coronel.Hernan.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Coronel.Hernan.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Coronel.Hernan.2D\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Coronel.Hernan.2D\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Coronel.Hernan.2D\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Coronel.Hernan.2D\Entidades\obj\Debug\Entidades.pdb
