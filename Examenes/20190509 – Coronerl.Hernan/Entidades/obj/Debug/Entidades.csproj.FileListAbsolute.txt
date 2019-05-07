@@ -1,0 +1,6 @@
+D:\VisualStudio\20190509 – Coronerl.Hernan\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\20190509 – Coronerl.Hernan\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\20190509 – Coronerl.Hernan\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\20190509 – Coronerl.Hernan\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\20190509 – Coronerl.Hernan\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\20190509 – Coronerl.Hernan\Entidades\obj\Debug\Entidades.pdb
