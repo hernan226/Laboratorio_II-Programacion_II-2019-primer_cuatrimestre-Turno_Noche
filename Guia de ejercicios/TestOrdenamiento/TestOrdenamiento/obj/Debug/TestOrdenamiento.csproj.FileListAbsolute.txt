@@ -1,0 +1,7 @@
+C:\Users\herna\Desktop\TestOrdenamiento\TestOrdenamiento\bin\Debug\TestOrdenamiento.exe.config
+C:\Users\herna\Desktop\TestOrdenamiento\TestOrdenamiento\bin\Debug\TestOrdenamiento.exe
+C:\Users\herna\Desktop\TestOrdenamiento\TestOrdenamiento\bin\Debug\TestOrdenamiento.pdb
+C:\Users\herna\Desktop\TestOrdenamiento\TestOrdenamiento\obj\Debug\TestOrdenamiento.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\TestOrdenamiento\TestOrdenamiento\obj\Debug\TestOrdenamiento.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\TestOrdenamiento\TestOrdenamiento\obj\Debug\TestOrdenamiento.exe
+C:\Users\herna\Desktop\TestOrdenamiento\TestOrdenamiento\obj\Debug\TestOrdenamiento.pdb
