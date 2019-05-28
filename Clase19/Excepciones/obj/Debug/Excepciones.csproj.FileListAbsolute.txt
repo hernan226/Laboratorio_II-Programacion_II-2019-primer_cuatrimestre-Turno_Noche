@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Clase19\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\Clase19\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\Clase19\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase19\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Clase19\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\Clase19\Excepciones\obj\Debug\Excepciones.pdb
