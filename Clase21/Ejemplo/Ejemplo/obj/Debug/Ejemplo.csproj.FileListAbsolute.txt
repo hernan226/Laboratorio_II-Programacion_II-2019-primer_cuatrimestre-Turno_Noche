@@ -1,0 +1,10 @@
+D:\VisualStudio\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+D:\VisualStudio\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\VisualStudio\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojAssemblyReference.cache
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.cache
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
